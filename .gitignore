@@ -13,3 +13,4 @@ __pycache__/
 cached_tweets.json
 sql/*.csv
 
+.env
