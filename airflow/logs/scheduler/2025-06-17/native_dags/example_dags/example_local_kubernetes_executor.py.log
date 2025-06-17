@@ -1,0 +1,154 @@
+[2025-06-17T12:42:55.228+0530] {processor.py:161} INFO - Started process (PID=453) to work on /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:42:55.228+0530] {processor.py:830} INFO - Processing file /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-06-17T12:42:55.229+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:42:55.229+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:42:55.232+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:42:55.231+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-06-17T12:42:55.232+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:42:55.232+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-17T12:42:55.232+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:42:55.238+0530] {processor.py:183} INFO - Processing /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2025-06-17T12:43:44.871+0530] {processor.py:161} INFO - Started process (PID=517) to work on /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:43:44.880+0530] {processor.py:830} INFO - Processing file /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-06-17T12:43:44.881+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:43:44.880+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:43:44.883+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:43:44.882+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-06-17T12:43:44.883+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:43:44.883+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-17T12:43:44.883+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:43:44.889+0530] {processor.py:183} INFO - Processing /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2025-06-17T12:44:42.858+0530] {processor.py:161} INFO - Started process (PID=608) to work on /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:44:42.867+0530] {processor.py:830} INFO - Processing file /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-06-17T12:44:42.868+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:44:42.868+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:44:42.872+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:44:42.871+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-06-17T12:44:42.872+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:44:42.872+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-17T12:44:42.872+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:44:42.880+0530] {processor.py:183} INFO - Processing /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.025 seconds
+[2025-06-17T12:46:18.629+0530] {processor.py:161} INFO - Started process (PID=703) to work on /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:46:18.638+0530] {processor.py:830} INFO - Processing file /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-06-17T12:46:18.640+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:46:18.639+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:46:18.643+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:46:18.642+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-06-17T12:46:18.643+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:46:18.643+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-17T12:46:18.643+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:46:18.649+0530] {processor.py:183} INFO - Processing /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.022 seconds
+[2025-06-17T12:47:08.973+0530] {processor.py:161} INFO - Started process (PID=1345) to work on /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:47:08.982+0530] {processor.py:830} INFO - Processing file /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-06-17T12:47:08.983+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:47:08.983+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:47:08.986+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:47:08.986+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-06-17T12:47:08.987+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:47:08.986+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-17T12:47:08.987+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:47:08.995+0530] {processor.py:183} INFO - Processing /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.024 seconds
+[2025-06-17T12:48:00.328+0530] {processor.py:161} INFO - Started process (PID=1588) to work on /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:48:00.338+0530] {processor.py:830} INFO - Processing file /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-06-17T12:48:00.339+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:48:00.338+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:48:00.341+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:48:00.341+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-06-17T12:48:00.341+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:48:00.341+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-17T12:48:00.342+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:48:00.349+0530] {processor.py:183} INFO - Processing /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.023 seconds
+[2025-06-17T12:48:47.835+0530] {processor.py:161} INFO - Started process (PID=1792) to work on /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:48:47.836+0530] {processor.py:830} INFO - Processing file /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-06-17T12:48:47.837+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:48:47.836+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:48:47.839+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:48:47.839+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-06-17T12:48:47.839+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:48:47.839+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-17T12:48:47.839+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:48:47.847+0530] {processor.py:183} INFO - Processing /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2025-06-17T12:49:39.252+0530] {processor.py:161} INFO - Started process (PID=2032) to work on /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:49:39.253+0530] {processor.py:830} INFO - Processing file /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-06-17T12:49:39.254+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:49:39.254+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:49:39.256+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:49:39.256+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-06-17T12:49:39.257+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:49:39.257+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-17T12:49:39.257+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:49:39.264+0530] {processor.py:183} INFO - Processing /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2025-06-17T12:50:28.488+0530] {processor.py:161} INFO - Started process (PID=2259) to work on /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:50:28.490+0530] {processor.py:830} INFO - Processing file /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-06-17T12:50:28.490+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:50:28.490+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:50:28.493+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:50:28.492+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-06-17T12:50:28.493+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:50:28.493+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-17T12:50:28.493+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:50:28.500+0530] {processor.py:183} INFO - Processing /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2025-06-17T12:51:14.988+0530] {processor.py:161} INFO - Started process (PID=2473) to work on /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:51:14.989+0530] {processor.py:830} INFO - Processing file /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-06-17T12:51:14.990+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:51:14.990+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:51:14.994+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:51:14.993+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-06-17T12:51:14.994+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:51:14.994+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-17T12:51:14.995+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:51:15.003+0530] {processor.py:183} INFO - Processing /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.019 seconds
+[2025-06-17T12:52:07.761+0530] {processor.py:161} INFO - Started process (PID=2718) to work on /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:52:07.769+0530] {processor.py:830} INFO - Processing file /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-06-17T12:52:07.770+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:52:07.770+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:52:07.772+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:52:07.772+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-06-17T12:52:07.772+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:52:07.772+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-17T12:52:07.772+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:52:07.779+0530] {processor.py:183} INFO - Processing /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2025-06-17T12:53:00.288+0530] {processor.py:161} INFO - Started process (PID=2957) to work on /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:53:00.289+0530] {processor.py:830} INFO - Processing file /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-06-17T12:53:00.290+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:53:00.290+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:53:00.294+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:53:00.293+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-06-17T12:53:00.294+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:53:00.294+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-17T12:53:00.295+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:53:00.316+0530] {processor.py:183} INFO - Processing /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.031 seconds
+[2025-06-17T12:53:52.871+0530] {processor.py:161} INFO - Started process (PID=3100) to work on /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:53:52.873+0530] {processor.py:830} INFO - Processing file /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-06-17T12:53:52.874+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:53:52.874+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:53:52.877+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:53:52.877+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-06-17T12:53:52.877+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:53:52.877+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-17T12:53:52.877+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:53:52.886+0530] {processor.py:183} INFO - Processing /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.017 seconds
+[2025-06-17T12:54:46.556+0530] {processor.py:161} INFO - Started process (PID=3240) to work on /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:54:46.565+0530] {processor.py:830} INFO - Processing file /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2025-06-17T12:54:46.566+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:54:46.566+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:54:46.569+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:54:46.568+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2025-06-17T12:54:46.569+0530] {logging_mixin.py:188} INFO - [2025-06-17T12:54:46.569+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2025-06-17T12:54:46.569+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2025-06-17T12:54:46.576+0530] {processor.py:183} INFO - Processing /home/priya/projects/snowflake_twitter_pipeline/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.022 seconds

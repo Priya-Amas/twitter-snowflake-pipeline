@@ -1,0 +1,49 @@
+edit_history_tweet_ids,created_at,text,id,author_id
+['1934526299810505077'],2025-06-16T08:19:46.000Z,RT @SoySoySoyB: 5月のデータ系サービスアップデートまとめ記事を公開しました！BigQueryのマルチモーダル分析、SnowflakeのIceberg機能拡張、dbt Fusionなどを取り上げています！／dbt Fusionエンジンがパブリックベータでリリース…,1934526299810505077,1668518594492379136
+['1934417534121635979'],2025-06-16T01:07:34.000Z,"Source: Snowflake
+ https://t.co/cguKhwWMTP
+
+Shared via the Google App",1934417534121635979,847867100
+['1934362782054723626'],2025-06-15T21:30:00.000Z,"RT @H0wie_Xu: #SF is “crazy”—At 6:30pm on a Friday, after two weeks of nonstop @Snowflake and @databricks conferences, people still didn’t…",1934362782054723626,1766548042411347968
+['1933788704130154576'],2025-06-14T07:28:49.000Z,"RT @EcZachly: Data engineering tech stacks that will last your entire career:
+
+- the “analytical” tech stack
+Snowflake, dbt, Airflow, Icebe…",1933788704130154576,825325037032845315
+['1933702479818223644'],2025-06-14T01:46:12.000Z,"#SF is “crazy”—At 6:30pm on a Friday, after two weeks of nonstop @Snowflake and @databricks conferences, people still didn’t have enough. Hundreds engineers came to the @awscloud and @EntreConnectUS event and now listening to @datastrato @Uber engineering gurus talk about #Data https://t.co/10K6VcJPwk",1933702479818223644,25741221
+['1933509072369955265'],2025-06-13T12:57:40.000Z,"RT @parmardarshil07: 4-Hour Free DBT (databuildtool) Masterclass is coming TODAY!
+
+- Learn about loading data to S3
+- How to load data into…",1933509072369955265,583756129
+['1933501660648910941'],2025-06-13T12:28:13.000Z,"I completed Spark, Hadoop, and Snowflake for Data Engineering! Check out my certificate https://t.co/hkvEUuV6VP #Coursera",1933501660648910941,1076194723
+['1933334763080987140'],2025-06-13T01:25:01.000Z,RT @SoySoySoyB: 5月のデータ系サービスアップデートまとめ記事を公開しました！BigQueryのマルチモーダル分析、SnowflakeのIceberg機能拡張、dbt Fusionなどを取り上げています！／dbt Fusionエンジンがパブリックベータでリリース…,1933334763080987140,1338771636695101442
+['1933192890487914871'],2025-06-12T16:01:16.000Z,"Databricks unveils Apache Spark Declarative Pipelines at Data + AI Summit, offering a scalable, open-source framework for SQL and Python data pipelines that aims to surpass Snowflake’s Openflow in data engineering capabilities. #Data #AI https://t.co/fNTcMmjG1C",1933192890487914871,1930005123255726080
+['1933186640828039467'],2025-06-12T15:36:26.000Z,"Snowflake عندما تقول هي بنا نلعب 
+
+🔷 1. Data Engineering / ETL Pipelines
+Preferred stack:
+Snowflake as the data warehouse
+Snowpark for Python (or Scala/Java if needed)
+dbt (Data Build Tool) for data transformation pipelines
+Apache Airflow or Prefect for orchestration
+Docker +",1933186640828039467,184735065
+['1933153821418721335'],2025-06-12T13:26:01.000Z,RT @SoySoySoyB: 5月のデータ系サービスアップデートまとめ記事を公開しました！BigQueryのマルチモーダル分析、SnowflakeのIceberg機能拡張、dbt Fusionなどを取り上げています！／dbt Fusionエンジンがパブリックベータでリリース…,1933153821418721335,711180196846575616
+['1932985777576931668'],2025-06-12T02:18:17.000Z,5月のデータ系サービスアップデートまとめ記事を公開しました！BigQueryのマルチモーダル分析、SnowflakeのIceberg機能拡張、dbt Fusionなどを取り上げています！／dbt Fusionエンジンがパブリックベータでリリース Data Engineering News 2025年5月まとめ | primeNumber https://t.co/hvHmDpzajw,1932985777576931668,1179760897293574144
+['1932773752414351562'],2025-06-11T12:15:46.000Z,"RT @TheDanicaFine: Looking to standardize on #apacheIceberg? Now you can centralize your data with a single, #opensource, vendor-neutral ca…",1932773752414351562,1006391
+['1932672387772002564'],2025-06-11T05:32:59.000Z,"RT @Snowflake: Here's the rundown on our major data engineering announcements from #SnowflakeSummit, all designed to help you build better,…",1932672387772002564,51095845
+['1932601773413253143'],2025-06-11T00:52:23.000Z,"RT @TheDanicaFine: Looking to standardize on #apacheIceberg? Now you can centralize your data with a single, #opensource, vendor-neutral ca…",1932601773413253143,15802496
+['1932568936668930409'],2025-06-10T22:41:54.000Z,"そうなんだ。
+本番運用する為の可用性やオンラインアップグレードパスなど、その辺の話はどうなってるのかなぁ。
+
+Centralize Your Data Lake: Apache Polaris Supports Apache Iceberg and Now Delta Lake https://t.co/nQ2nu5MMGi",1932568936668930409,133993222
+['1932492941416947855'],2025-06-10T17:39:55.000Z,"Looking to standardize on #apacheIceberg? Now you can centralize your data with a single, #opensource, vendor-neutral catalog while you do it!
+
+#apachePolaris (incubating) now supports Delta Lake tables! 💥
+
+Check out the blog and learn more 👇
+https://t.co/U4tXi9qo5r",1932492941416947855,1427404952737968128
+['1932489169198002394'],2025-06-10T17:24:56.000Z,"Here's the rundown on our major data engineering announcements from #SnowflakeSummit, all designed to help you build better, faster pipelines! ⚡️
+
+❄️ For SQL &amp; dbt Fans: We're bringing dbt Projects natively to Snowflake (public preview soon). Plus, Dynamic Tables get even better https://t.co/SggM2dQOJI",1932489169198002394,2539962439
+['1932350606615916829'],2025-06-10T08:14:20.000Z,"How Snowflake’s AI Agents and Adaptive Compute Will Change Data Engineering Forever | by Abhishek Kumar Gupta | Tech with Abhishek | Jun, 2025 | Medium #SnowflakeDB
+https://t.co/Fq6ObUsP3s",1932350606615916829,151498423
+['1932314087331094849'],2025-06-10T05:49:13.000Z,RT @ShotaAsanoSnow1: 5年前のSnowflake会でYoshiさんが登壇して、営業色が一歳無い形でSnowflakeのシンプルな良さを技術目線で語ってくれた会は本当に素晴らしかった。Data Engineering Studyは参加者が本当に求めている情報を…,1932314087331094849,949118690791796738
